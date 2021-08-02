@@ -23,7 +23,7 @@ population, gdp per capita, extreme poverty,available hospical beds, vaccination
 * The population of Brazil is nearly 10 times that of the other two countries, so it could mean that they set the reasonable strategy for vaccination and infrastructure construction could more abundant than Argentina.
 * According to some news articles, the new government of Peru is expected to be limited in its role as a global vaccine hub right at the moment, as it has been tasked with resolving political chaos and unifying divided public minds.
 * Therefore, Brazil seems to be the most suitable country as a vaccine hub in South America.
-* [Asia-Europe] Russia is excluded since they already have their own vaccine (Sputnik V) The three countries with top GDP per capita is South Korea, Malaysia and Kazakhstan.
+* [Asia-Europe] Russia is excluded since they already have their own vaccine (Sputnik V). The three countries with top GDP per capita is South Korea, Malaysia and Kazakhstan.
 * Countries that are accelerating vaccination are Malaysia, Sri Lanka and South Korea. However, Sri Lanka is excluded since they has a large dependency on external vaccine support.
 * Low total death rate could mean that the country's medical infrasturcture is well equipped. The three countries with the lowest total death rate are Malaysia, Kazakhstan and South Korea. Among them, Kazakhstan is excluded as they created Kazbek (vaccine).
 * Therefore, as Malaysia and South Koreahave the best conditions as vaccine hubs, if vaccine support to these two countries is given priority, they can swap vaccine swap with neighboring countries to increase vaccine availability. Afterwards, these two countries can provide their cold chain system to storage vaccine for the neighboring countries.
