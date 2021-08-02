@@ -27,6 +27,6 @@ population, gdp per capita, extreme poverty,available hospical beds, vaccination
 * Countries that are accelerating vaccination are Malaysia, Sri Lanka and South Korea. However, Sri Lanka is excluded since they has a large dependency on external vaccine support.
 * Low total death rate could mean that the country's medical infrasturcture is well equipped. The three countries with the lowest total death rate are Malaysia, Kazakhstan and South Korea. Among them, Kazakhstan is excluded as they developed Kazbek (vaccine).
 * Therefore, as Malaysia and South Koreahave the best conditions as vaccine hubs, if vaccine support to these two countries is given priority, they can swap vaccine swap with neighboring countries to increase vaccine availability. Afterwards, these two countries can provide their cold chain system to storage vaccine for the neighboring countries.
-* In order to divide vaccine doses to above three countries, the size of cold chain market of each country should be understood. However, there is no related data available, 
+* In order to distribute vaccine doses to above three countries, the size of cold chain market of each country should be understood. However, there is no related data available, 
 hospital_beds_per_thousand will be used to determine the size of the country's health/medical infrastructure.
 * As a result, 116066 doses of vaccine can be supplied to Malaysia, 749542 to South Korea and 134392 to Brazil.
