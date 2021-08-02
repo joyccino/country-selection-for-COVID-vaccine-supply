@@ -17,7 +17,7 @@ population, gdp per capita, extreme poverty,available hospical beds, vaccination
 * Visualise on a map to locate the remaining 22 countries. It is confirmed that these countries are concentrated in South America and Asia.
 * Find two or three countries with rich infrastructure and close proximity to neighboring countries that can become COVID-19 vaccine hubs.
 * Among 22 countries, select 15 countries with the highest GDP per capita.
-* Among 15 countries, select 9 countries with the extreme poverty rate less than 4.
+* Among 15 countries, select 9 countries with the extreme poverty rate less than 4.0
 * Devide the remaining countries into two groups : South-America and Asia-Europe.
 * [South America] Argentina's primary vaccination rate is 53%, and the number of beds in hospitals are the highest, and relatively stable vaccination and corona infection control are in progress.
 * The population of Brazil is nearly 10 times that of the other two countries, so it could mean that they set the reasonable strategy for vaccination and infrastructure construction could more abundant than Argentina.
