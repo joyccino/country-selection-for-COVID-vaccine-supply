@@ -19,7 +19,7 @@ population, gdp per capita, extreme poverty,available hospical beds, vaccination
 * Among 22 countries, select 15 countries with the highest GDP per capita.
 * Among 15 countries, select 9 countries with the extreme poverty rate less than 4.
 * Devide the remaining countries into two groups : South-America and Asia-Europe.
-* [South America] Argentina's primary vaccination rate is 53%, and the number of beds is the highest, and relatively stable vaccination and corona infection control are in progress.
+* [South America] Argentina's primary vaccination rate is 53%, and the number of beds in hospitals are the highest, and relatively stable vaccination and corona infection control are in progress.
 * The population of Brazil is nearly 10 times that of the other two countries, so it could mean that they set the reasonable strategy for vaccination and infrastructure construction could more abundant than Argentina.
 * According to some news articles, the new government of Peru is expected to be limited in its role as a global vaccine hub right at the moment, as it has been tasked with resolving political chaos and unifying divided public minds.
 * Therefore, Brazil seems to be the most suitable country as a vaccine hub in South America.
